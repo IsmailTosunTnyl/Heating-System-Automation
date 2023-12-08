@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os
 import mysql.connector
+import pandas as pd
 env=load_dotenv(".env")
 
 class Database:
@@ -31,16 +32,28 @@ class Database:
     
     def insert(self, temp, humidity):
         self.cursor.execute("INSERT INTO Temperature (temp, humidity, date) VALUES (%s, %s, NOW())", (temp, humidity))
+        print("Insert")
         self.db.commit()
     
     def get_last_24_hours(self):
-        self.cursor.execute("SELECT * FROM Temperature WHERE date >= NOW() - INTERVAL 1 DAY")
-        return self.cursor.fetchall()
+        self.cursor.execute("SELECT * FROM Temperature ORDER BY id DESC LIMIT 30")
+        data = self.cursor.fetchall()
+        df = pd.DataFrame(data, columns=["id", "temp", "humidity", "date"])
+        # format date to hh:mm dd/mm/yyyy
+        df["date"] = pd.to_datetime(df["date"]).dt.strftime("%d/%m %H:%M")
+
+        
+        #print last date
+        print(df["date"].iloc[-1])
+        return  df
+    
+    
         
         
     def get_last_row(self):
         self.cursor.execute("SELECT * FROM Temperature ORDER BY id DESC LIMIT 1")
-        return self.cursor.fetchone() 
+        data = self.cursor.fetchone()
+        return data[1], data[2]
         
     
     
@@ -49,7 +62,7 @@ print("DB file Runned")
         
 if __name__ == "__main__":
     db = Database()
-    db.insert(25, 50)
+
     print(db.get_last_row())
     print(db.get_last_24_hours())
     print("DB file Runned")

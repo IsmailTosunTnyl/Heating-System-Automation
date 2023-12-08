@@ -1,0 +1,187 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 00:34:26.882 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 112, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 92, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-08 00:38:02.133 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 21, in <module>
+    saved_temp = read_temp_from_json()
+  File "/home/pi/smart-boiler/app.py", line 18, in read_temp_from_json
+    data = json.load(file)
+  File "/usr/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+Unable to set line 23 to input
+2023-12-08 00:40:28.136 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 112, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 92, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 00:42:23.545 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 112, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 92, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-08 00:44:22.359 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 21, in <module>
+    saved_temp = read_temp_from_json()
+  File "/home/pi/smart-boiler/app.py", line 18, in read_temp_from_json
+    data = json.load(file)
+  File "/usr/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/pi/smart-boiler/app.py", line 47, in check_temp
+    t = read_temp_from_json()
+  File "/home/pi/smart-boiler/app.py", line 18, in read_temp_from_json
+    data = json.load(file)
+  File "/usr/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 00:52:16.448 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 4, in <module>
+    from db import Database
+  File "/home/pi/smart-boiler/db.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+2023-12-08 00:52:21.328 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 4, in <module>
+    from db import Database
+  File "/home/pi/smart-boiler/db.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 00:52:43.018 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 112, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 92, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 03:07:54.208 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+received SIGINT
+
+DB file Runned
+Sıcaklık kayıt
+Switch file Runned
+Sıcaklık kontrolü yapılıyor
+None None 23
+None None temp, hum
+Insert
+Sıcaklık kayıt Başarılı
+23 58 temp, hum
+23 58 temp, hum
+Sıcaklık kontrolü yapılıyor
+23 58 23
+  Stopping...
