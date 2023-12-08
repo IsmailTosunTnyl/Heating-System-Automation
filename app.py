@@ -94,8 +94,8 @@ def main():
             else:
                 sw.close_switch()
         
-        temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
-        hum_delta = f"{hum - last_hum} %" if last_hum is not None else None
+        temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+        hum_delta = f"{hum - last_hum:.1f} %" if last_hum is not None else None
 
         col1.metric("Sıcaklık", f"{temp} °C", delta=temp_delta)
         col2.metric("Nem", f"{hum} %", delta=hum_delta)

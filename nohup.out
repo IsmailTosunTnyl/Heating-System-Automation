@@ -185,3 +185,52 @@ Sıcaklık kayıt Başarılı
 Sıcaklık kontrolü yapılıyor
 23 58 23
   Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 17:42:41.325 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+received SIGINT
+
+DB file Runned
+Sıcaklık kayıt
+Switch file Runned
+Sıcaklık kontrolü yapılıyor
+None None 22
+None None temp, hum
+Insert
+Sıcaklık kayıt Başarılı
+21 57 temp, hum
+21 57 temp, hum
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
+2023-12-08 17:44:38.156 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'

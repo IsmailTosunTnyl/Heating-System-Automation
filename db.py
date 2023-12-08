@@ -42,18 +42,27 @@ class Database:
         # format date to hh:mm dd/mm/yyyy
         df["date"] = pd.to_datetime(df["date"]).dt.strftime("%d/%m %H:%M")
 
-        
-        #print last date
-        print(df["date"].iloc[-1])
         return  df
     
     
         
         
     def get_last_row(self):
-        self.cursor.execute("SELECT * FROM Temperature ORDER BY id DESC LIMIT 1")
-        data = self.cursor.fetchone()
-        return data[1], data[2]
+        # return average of last 10 records
+        query = "SELECT temp, humidity FROM Temperature ORDER BY id DESC LIMIT 10"
+        self.cursor.execute(query)
+        data = self.cursor.fetchall()
+        
+        avg_temp = 0
+        avg_humidity = 0
+        for temp, humidity in data:
+            avg_temp += temp
+            avg_humidity += humidity
+        
+        avg_temp /= len(data)
+        avg_humidity /= len(data)
+        
+        return avg_temp, avg_humidity
         
     
     
