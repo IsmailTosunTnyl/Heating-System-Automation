@@ -51,14 +51,20 @@ def main():
         while True:
             t = read_temp_from_json()
             try:
-                temp, hum = dht11_sensor.get_temp_humidity()
-                print("Sıcaklık kontrolü yapılıyor")
-                print(temp, hum, t)  # Corrected print statement
-                if temp is not None or hum is not None:
-                    if temp < t:
-                        sw.open_switch()
+                while True:
+                    temp, hum = dht11_sensor.get_temp_humidity()
+                    print("Sıcaklık kontrolü yapılıyor")
+                    if temp is not None:
+                        break
                     else:
-                        sw.close_switch()
+                        print("Sıcaklık kontrolü başarısız")
+                        time.sleep(5)
+                    
+                print(temp, hum, t)  # Corrected print statement
+                if temp < t:
+                    sw.open_switch()
+                else:
+                    sw.close_switch()
             except Exception as e:
                 print("Sıcaklık kontrolü başarısız")
                 print(e)
@@ -85,8 +91,13 @@ def main():
     else:
         st.title("Sıcaklık ve Nem")
         col1, col2 = st.columns(2)
-        temp, hum = dht11_sensor.get_temp_humidity()
-        print(temp, hum,"temp, hum")
+        while True:
+            temp, hum = dht11_sensor.get_temp_humidity()
+            if temp is not None:
+                break
+            else:
+                time.sleep(5)
+            print(temp, hum,"temp, hum")
         
         if temp is not None or hum is not None:
             if temp < slider_value:
@@ -99,6 +110,7 @@ def main():
 
         col1.metric("Sıcaklık", f"{temp} °C", delta=temp_delta)
         col2.metric("Nem", f"{hum} %", delta=hum_delta)
+        
     if sw.status:
         st.success("Kombi açık")
     else:

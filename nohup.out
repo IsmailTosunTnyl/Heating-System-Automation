@@ -234,3 +234,4812 @@ Traceback (most recent call last):
   File "/home/pi/smart-boiler/app.py", line 97, in main
     temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
 TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+DB file Runned
+Sıcaklık kayıt
+Sıcaklık kontrolü yapılıyor
+None None 22
+Switch file Runned
+None None temp, hum
+Insert
+Sıcaklık kayıt Başarılı
+21 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+21 57 temp, hum
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+21 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+22 57 temp, hum
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+22 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+22 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Insert
+Sıcaklık kayıt Başarılı
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt2023-12-08 21:26:35.322 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 21, in <module>
+    saved_temp = read_temp_from_json()
+  File "/home/pi/smart-boiler/app.py", line 18, in read_temp_from_json
+    data = json.load(file)
+  File "/usr/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+22 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+22 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+22 57 temp, hum
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kontrolü yapılıyor
+22 57 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+22 57 temp, hum
+Insert
+Sıcaklık kayıt Başarılı
+22 57 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 56 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+23 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+23 56 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 57 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+23 55 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+22 56 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+22 56 temp, hum
+22 56 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+22 56 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+22 56 temp, hum
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+Sıcaklık kontrolü yapılıyor
+22 56 22
+22 56 temp, hum
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 55 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 55 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 56 23
+Sıcaklık kontrolü yapılıyor
+22 55 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+23 55 temp, hum
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 55 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 23
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 23
+Sıcaklık kontrolü yapılıyor
+23 54 23
+23 54 temp, hum
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None2023-12-09 05:02:47.808 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+ None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kayıt
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 54 24
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Sıcaklık kontrolü yapılıyor
+22 54 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+22 55 24
+Sıcaklık kontrolü yapılıyor
+22 54 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 53 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+23 53 24
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+23 53 24
+Sıcaklık kontrolü yapılıyor
+23 53 24
+Sıcaklık kontrolü yapılıyor
+23 53 24
+Checksum did not validate. Try again.
+None None temp, hum
+22 54 temp, hum
+22 54 temp, hum
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 24
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Sıcaklık kontrolü yapılıyor
+21 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 54 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+22 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+20 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+19 52 22
+Sıcaklık kontrolü yapılıyor
+19 52 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+19 52 22
+Checksum did not validate. Try again.
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+19 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+18 53 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+18 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+18 53 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+18 53 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+19 52 22
+Sıcaklık kontrolü yapılıyor
+20 52 22
+Sıcaklık kontrolü yapılıyor
+20 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+20 52 22
+Sıcaklık kontrolü yapılıyor
+20 52 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Sıcaklık kontrolü yapılıyor
+21 51 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Received unplausible data. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt BaşarılıTask exception was never retrieved
+future: <Task finished name='Task-115236' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/pi/smart-boiler/venv/lib/python3.9/site-packages/tornado/websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/tornado/websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/tornado/websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+21 53 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Sıcaklık kontrolü yapılıyor
+22 53 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+22 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Sıcaklık kontrolü yapılıyor
+21 52 22
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor2023-12-09 17:12:52.290 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 12, in <module>
+    db = Database()
+  File "/home/pi/smart-boiler/db.py", line 16, in __init__
+    self.db = mysql.connector.connect(
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+
+21 52 22
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+21 52 temp, hum
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 22
+21 52 temp, hum
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 21
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kayıt
+A full buffer was not returned. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+21 51 21
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+21 52 temp, hum
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 21
+21 52 temp, hum
+Sıcaklık kontrolü yapılıyor
+21 52 21
+21 52 temp, hum
+21 52 temp, hum
+21 52 temp, hum
+21 52 temp, hum
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Received unplausible data. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+A full buffer was not returned. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Checksum did not validate. Try again.
+Insert
+Sıcaklık kayıt Başarılı
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Checksum did not validate. Try again.
+Sıcaklık kontrolü yapılıyor
+None None 21
+Sıcaklık kontrolü yapılıyor
+21 52 21
+Sıcaklık kayıt
+Insert
+Sıcaklık kayıt Başarılı2023-12-09 19:37:02.393 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on 'sony.local:3333' (110)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 12, in <module>
+    db = Database()
+  File "/home/pi/smart-boiler/db.py", line 16, in __init__
+    self.db = mysql.connector.connect(
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on 'sony.local:3333' (110)
+2023-12-09 19:37:02.394 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on 'sony.local:3333' (110)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 12, in <module>
+    db = Database()
+  File "/home/pi/smart-boiler/db.py", line 16, in __init__
+    self.db = mysql.connector.connect(
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on 'sony.local:3333' (110)
+2023-12-09 19:37:02.395 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on 'sony.local:3333' (110)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 12, in <module>
+    db = Database()
+  File "/home/pi/smart-boiler/db.py", line 16, in __init__
+    self.db = mysql.connector.connect(
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on 'sony.local:3333' (110)
+2023-12-09 19:50:55.488 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:51:18.789 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:51:25.944 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:51:47.411 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:51:55.709 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:52:16.223 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 117, in <module>
+    main()
+  File "/home/pi/smart-boiler/app.py", line 97, in main
+    temp_delta = f"{temp - last_temp:.1f} °C" if last_temp is not None else None
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2023-12-09 19:53:27.481 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on 'sony.local:3333' (110)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 534, in _run_script
+    exec(code, module.__dict__)
+  File "/home/pi/smart-boiler/app.py", line 12, in <module>
+    db = Database()
+  File "/home/pi/smart-boiler/db.py", line 16, in __init__
+    self.db = mysql.connector.connect(
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "/home/pi/smart-boiler/venv/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on 'sony.local:3333' (110)
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.1.49:8501
+  External URL: http://212.253.212.179:8501
+
