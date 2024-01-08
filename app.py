@@ -52,13 +52,18 @@ def main():
             t = read_temp_from_json()
             try:
                 while True:
-                    temp, hum = dht11_sensor.get_temp_humidity()
-                    print("Sıcaklık kontrolü yapılıyor")
-                    if temp is not None:
-                        break
-                    else:
-                        print("Sıcaklık kontrolü başarısız")
-                        time.sleep(5)
+                    try:
+                        temp, hum = dht11_sensor.get_temp_humidity()
+                        print("Sıcaklık kontrolü yapılıyor")
+                        if temp is not None:
+                            print(temp,"temp")
+                            break
+                        else:
+                            print("Sıcaklık kontrolü başarısız")
+                            time.sleep(1)
+                            continue
+                    except:
+                        pass
                     
                 print(temp, hum, t)  # Corrected print statement
                 if temp < t:
@@ -66,7 +71,7 @@ def main():
                 else:
                     sw.close_switch()
             except Exception as e:
-                print("Sıcaklık kontrolü başarısız")
+                print("Sıcaklık kontrolü başarısız E")
                 print(e)
             finally:
                 time.sleep(60*1)
@@ -97,6 +102,7 @@ def main():
                 break
             else:
                 time.sleep(5)
+                continue
             print(temp, hum,"temp, hum")
         
         if temp is not None or hum is not None:
